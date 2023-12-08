@@ -1,0 +1,7 @@
+.DS_Store
+*.pyc
+*.egg-info
+*.swp
+tags
+reschedule_sales_order/docs/current
+node_modules/

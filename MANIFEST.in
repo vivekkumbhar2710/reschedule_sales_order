@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include reschedule_sales_order *.css
+recursive-include reschedule_sales_order *.csv
+recursive-include reschedule_sales_order *.html
+recursive-include reschedule_sales_order *.ico
+recursive-include reschedule_sales_order *.js
+recursive-include reschedule_sales_order *.json
+recursive-include reschedule_sales_order *.md
+recursive-include reschedule_sales_order *.png
+recursive-include reschedule_sales_order *.py
+recursive-include reschedule_sales_order *.svg
+recursive-include reschedule_sales_order *.txt
+recursive-exclude reschedule_sales_order *.pyc

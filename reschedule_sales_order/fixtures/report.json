@@ -1,0 +1,33 @@
+[
+ {
+  "add_total_row": 0,
+  "columns": [],
+  "disable_prepared_report": 0,
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "filters": [],
+  "is_standard": "No",
+  "javascript": null,
+  "json": "{\"filters\":[],\"fields\":[[\"name\",\"Reschedule Sales Order\"],[\"sales_order_no\",\"Reschedule Sales Order\"],[\"items\",\"Reschedule Sales Order Items\"],[\"item_name\",\"Reschedule Sales Order Items\"],[\"delivery_date\",\"Reschedule Sales Order Items\"],[\"our_delivery_date\",\"Reschedule Sales Order Items\"],[\"idx\",\"Reschedule Sales Order Items\"]],\"order_by\":\"`tabReschedule Sales Order`.`modified` desc\",\"add_totals_row\":0,\"page_length\":20,\"column_widths\":{\"name\":120,\"sales_order_no\":120,\"Reschedule Sales Order Items:items\":120,\"Reschedule Sales Order Items:item_name\":120,\"Reschedule Sales Order Items:delivery_date\":120,\"Reschedule Sales Order Items:our_delivery_date\":120,\"Reschedule Sales Order Items:idx\":120},\"group_by\":null}",
+  "letter_head": "Autotechnix",
+  "modified": "2023-12-08 16:27:07.921768",
+  "module": "Reschedule Sales Order",
+  "name": "Reschedule Sales Order Report",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Reschedule Sales Order",
+  "reference_report": null,
+  "report_name": "Reschedule Sales Order Report",
+  "report_script": null,
+  "report_type": "Report Builder",
+  "roles": [
+   {
+    "parent": "Reschedule Sales Order Report",
+    "parentfield": "roles",
+    "parenttype": "Report",
+    "role": "System Manager"
+   }
+  ]
+ }
+]
